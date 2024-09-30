@@ -1,1 +1,1 @@
-# star_vba
+Used VBA to Automate an Excel Sheet where two columns were there. Created a copy paste format in such way that whenever it meets certain condition in the first column, it will copy paste data in second column & go on.
